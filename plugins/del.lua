@@ -31,6 +31,5 @@ return {
     run = run
 }
 
---Write By @OFFLlNE
---Open By @LuaError
---Channel @LuaError
+
+--Channel @TeleStarTeam
